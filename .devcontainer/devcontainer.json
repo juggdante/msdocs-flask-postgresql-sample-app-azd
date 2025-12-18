@@ -23,7 +23,7 @@
 						"name": "Container database",
 						"driver": "PostgreSQL",
 						"previewLimit": 50,
-						"server": "localhost",
+						"server": "db",
 						"port": 5432,
 						"database": "app",
 						"username": "app_user",
